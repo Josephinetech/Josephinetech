@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Josephinetech
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning css
-- 💞️ I’m looking to collaborate on simple html, CSS and JavaScript projects
+- 👋 Hi, I’m Josephine
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently taking harvard CS50x
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me josephinetankoedu@gmail.com
 
 <!---
